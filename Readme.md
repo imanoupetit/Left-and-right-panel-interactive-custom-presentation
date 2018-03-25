@@ -1,5 +1,3 @@
-![Swift version](https://img.shields.io/badge/Swift-3.0-green.svg)
-
 This sample code shows how to use a custom presentation controller to create a custom view controller presentation.
 
 ![RightPanel.gif](RightPanel.gif)
